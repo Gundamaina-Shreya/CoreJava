@@ -33,7 +33,7 @@ public class Student extends Citizen{
 
 	@Override
 	public String toString() {
-		return "Student [rollno=" + rollno + ", collegename=" + collegename + "]";
+		return super.toString()+"Student [rollno=" + rollno + ", collegename=" + collegename + "]";
 	}
 	public  Student(String name,long adharno,String address,long phono)
 	{

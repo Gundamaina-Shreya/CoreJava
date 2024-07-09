@@ -28,6 +28,7 @@ public class Citizen {
 	public void setAdharno(long adharno) {
 		this.adharno = adharno;
 	}
+
 	public String getAddress() {
 		return address;
 	}
