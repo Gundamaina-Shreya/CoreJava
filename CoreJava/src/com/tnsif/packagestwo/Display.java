@@ -1,4 +1,4 @@
-package com.tsnif.packagestwo;
+package com.tnsif.packagestwo;
 
 import com.tnsif.packages.Publicdemo;
 

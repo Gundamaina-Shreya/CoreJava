@@ -1,4 +1,4 @@
-package com.tsnif.constructor;
+package com.tnsif.constructor;
 
 public class Customer {
 	private String cname;
